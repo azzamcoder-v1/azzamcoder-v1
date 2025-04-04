@@ -1,19 +1,3 @@
-logo generator markdown profil github
-Pembuat README Profil GitHub
-Bintangi repo ini
-22582
-Fork di GitHub
-7432
-
-kembali untuk mengedit
-
-disalin
-
-unduh penurunan harga
-
-unduh cadangan
-
-pratinjau
 <h1 align="center">Hai 👋, saya Muhammad Tsaqif Noor Azzamil</h1>
 <h3 align="center">Pengembang yang bersemangat dari Indonesia</h3>
 
